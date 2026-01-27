@@ -1,65 +1,51 @@
 Personal Portfolio Website
 
-This repository contains my personal portfolio website, built using vanilla HTML5 and CSS3. The project focuses on clean structure, responsive layout design, and performance without relying on external frameworks or libraries.
+This is my personal portfolio website built with HTML and CSS. I wanted to keep things simple and focus on strong fundamentals rather than using frameworks. The result is a clean, responsive site that works well on desktop and mobile.
 
-The site is designed to clearly present my background, technical skills, and selected projects while remaining lightweight, readable, and easy to maintain.
+What’s Inside
 
-Overview
+The website includes:
 
-The portfolio is structured into multiple semantic sections, including:
+A profile section with a short intro and social links
 
-Profile / hero section with social links
+An “About Me” section with my background and experience
 
-About section outlining experience and education
+A skills and experience section
 
-Skills and experience breakdown
+A projects showcase
 
-Project highlights
+A contact section with email and LinkedIn
 
-Contact section with direct communication links
+Everything is laid out to be easy to read and navigate.
 
-The layout prioritizes clarity, spacing, and responsiveness across different screen sizes.
+Tech Stack
 
-Technologies
+HTML5
 
-HTML5 – semantic markup and page structure
+CSS3 (Flexbox + media queries)
 
-CSS3 – Flexbox, media queries, responsive units
+Google Fonts (Poppins)
 
-Google Fonts (Poppins) – typography
+No frameworks, no libraries — just plain HTML and CSS.
 
-No frameworks or CSS libraries were used. All layouts and responsiveness were implemented manually.
+Responsive Design
 
-Responsive Design Approach
+The layout adapts to different screen sizes using Flexbox and media queries. I paid close attention to spacing, image scaling, and section flow to avoid overlap and keep things looking clean on smaller screens.
 
-Responsiveness is handled using:
+What I Learned
 
-Flexbox for layout alignment and spacing
+How to build a responsive site from scratch
 
-Media queries targeting desktop, tablet, and mobile breakpoints
+How to fix layout issues that only show up on real devices
 
-Fluid containers and flexible image sizing
+How to write cleaner CSS that’s easier to maintain
 
-Care was taken to avoid rigid height constraints and prevent layout overlap, ensuring consistent rendering across browsers and devices.
+Why flexible layouts matter more than fixed heights
 
-Key Learnings
+What’s Next
 
-Building responsive layouts without frameworks
+Add some JavaScript for animations and interactivity
 
-Managing section flow and spacing in multi-section pages
+Improve accessibility
 
-Debugging viewport and media query issues
-
-Writing scalable and maintainable CSS
-
-Understanding how fixed vs flexible units affect layout behavior
-
-Future Enhancements
-
-Add JavaScript for interactivity and animations
-
-Improve accessibility (ARIA roles, keyboard navigation)
-
-Expand project section with live demos
-
-Performance optimizations and image compression
+Add more projects and live demos
