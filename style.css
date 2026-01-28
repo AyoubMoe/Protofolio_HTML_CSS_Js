@@ -151,6 +151,16 @@ section {
     min-height: fit-content;
 }
 
+#typed-text::after {
+  content: "|";
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
+
 .section-container {
     display: flex;
 }
