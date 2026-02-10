@@ -7,7 +7,8 @@ function togglemenu() {
 
 const roles = [
   "Software Engineer",
-  "Data Analyst"
+  "Data Analyst",
+  "Product Owner"
 ];
 
 let roleIndex = 0;
