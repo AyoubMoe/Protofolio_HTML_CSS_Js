@@ -6,9 +6,10 @@ function togglemenu() {
 }
 
 const roles = [
+  "Project Analyst",
   "Software Engineer",
   "Data Analyst",
-  "Product Owner"
+  "Project Engineer"
 ];
 
 let roleIndex = 0;
