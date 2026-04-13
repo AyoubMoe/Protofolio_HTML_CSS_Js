@@ -6,10 +6,10 @@ function togglemenu() {
 }
 
 const roles = [
-  "Project Analyst",
-  "Software Engineer",
-  "Data Analyst",
-  "Project Engineer"
+  "Project Manager | Operations & Delivery",
+  "Project Controls Analyst",
+  "Program & Project Coordinator",
+  "Data-Driven Operations Analyst"
 ];
 
 let roleIndex = 0;
